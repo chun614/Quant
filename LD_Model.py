@@ -1,4 +1,4 @@
-" The following program is used to show the econometric model construction towards the census data processed in 'Data_Process.py'. See 'WorkingPaper_Conc.pdf', which is available on the application platform, for details of the model employed."
+" The following program is used to show the econometric model construction towards the census data processed in 'Data_Process.py'. See 'WorkingPaper_Conc.pdf', which is available on the application platform, for details of the model employed." 
 # Copyright (C) 2021 Chun Hung, Tsang
 
 
