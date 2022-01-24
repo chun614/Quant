@@ -1,4 +1,4 @@
-" The following program is used to show various forecasting methods and takes stock return rates, real GDP, real consumption, and real investment of the US as examples. "
+" The following program is used to show various forecasting methods and takes stock return rates, real GDP, real consumption, and real investment of the US as examples. " 
 
 
 ### Enviornment
