@@ -1,4 +1,4 @@
-" The following program is used to show the data processing procedures toward Taiwan census survey data. See 'WorkingPaper_Conc.pdf', which is available on the application platform, for details of further explanations on the data description and the data processing."
+" The following program is used to show the data processing procedures toward Taiwan census survey data. See 'WorkingPaper_Conc.pdf', which is available on the application platform, for details of further explanations on the data description and the data processing." 
 # Copyright (C) 2021 Chun Hung, Tsang
 
 
