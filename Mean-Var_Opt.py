@@ -1,4 +1,4 @@
-" The following program is used to show the computation of the Markowitz optimized stock weights of the HK stocks selected by mean-variance optimization (MVO). "
+" The following program is used to show the computation of the Markowitz optimized stock weights of the HK stocks selected by mean-variance optimization (MVO). " 
 
 
 ### Enviornment
